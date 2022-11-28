@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1655696736406,
+    "name": "5",
+    "projects": [],
+    "members": {
+      "1655696329654": "ADMIN",
+      "1655692772317": "USER"
+    },
+    "createdAt": "2022-06-20T08:45:36.406626788",
+    "createdBy": 1655696329654,
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": 1655708785206,
+    "name": "6",
+    "projects": [
+      1655713743217
+    ],
+    "members": {
+      "1655692772317": "ADMIN"
+    },
+    "createdAt": "2022-06-20T12:06:25.206979972",
+    "createdBy": 1655692772317,
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": 1655713695208,
+    "name": "2",
+    "projects": [],
+    "members": {
+      "1655692772317": "ADMIN"
+    },
+    "createdAt": "2022-06-20T13:28:15.209033653",
+    "createdBy": 1655692772317,
+    "deleted": false,
+    "blocked": false
+  }
+]
